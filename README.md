@@ -16,7 +16,7 @@ Real Test Satellite Images - 2710 images in .PNG format
 Synthetic Training Satellite Images - 2000 images in .PNG format
 Real and Synthetic Masks in JSON format
 
-Model: The model can be downloaded here: https://github.com/shawnoyer/Generative_Vision 
+Model: The model is too large to host on GitHub. Available upon request at sbo33@drexel.edu.
 
 The model consists of the VAE, Text Encoder, Tokenizer, Unet, Scheduler, Safety Checker, Feature Extractor, Learned Embeds, and Model Index
 
