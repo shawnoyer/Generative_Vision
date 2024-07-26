@@ -16,6 +16,10 @@ Real Test Images - 2710 images in .PNG format
 Synthetic Training Images - 2000 images in .PNG format
 Real and Synthetic Masks in JSON format
 
+Model: The model can be downloaded here: https://github.com/shawnoyer/Generative_Vision 
+
+The model consists of the VAE, Text Encoder, Tokenizer, Unet, Scheduler, Safety Checker, Feature Extractor, Learned Embeds, and Model Index
+
 Contents: The contents of the .ipynb file are separated into the following sections: 
 
   Utilities
