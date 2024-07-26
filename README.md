@@ -11,9 +11,9 @@ Data: The data can be downloaded here:
 https://drive.google.com/file/d/10oakKU-DFtDWGPDiTs2x7IqZ82FfwauN/view 
 
 The data consists of the following:
-Real Training Images - 5825 images in .PNG format
-Real Test Images - 2710 images in .PNG format
-Synthetic Training Images - 2000 images in .PNG format
+Real Training Satellite Images - 5825 images in .PNG format
+Real Test Satellite Images - 2710 images in .PNG format
+Synthetic Training Satellite Images - 2000 images in .PNG format
 Real and Synthetic Masks in JSON format
 
 Model: The model can be downloaded here: https://github.com/shawnoyer/Generative_Vision 
